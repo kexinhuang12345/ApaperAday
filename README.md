@@ -1,8 +1,10 @@
 # A Paper A Day
 
-I urge myself to read at least one paper per day. mainly in ML for health. 
+I urge myself to read at least one paper per day. mainly in ML, ML for biomedicine, and NLP. 
 
-#### Go
+#### Papers
+
+4.28.2019 [*Neural Machine Translation of Rare Words with Subword Units*](http://www.aclweb.org/anthology/P16-1162) Rico Sennrich, Barry Haddow, and Alexandra Birch, 2017
 
 4.24.2019 [*beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework*](https://openreview.net/pdf?id=Sy2fzU9gl) Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner, 2017
 
