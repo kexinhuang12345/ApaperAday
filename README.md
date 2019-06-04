@@ -3,7 +3,7 @@
 I urge myself to read at least one paper per day. mainly in ML, ML for biomedicine, and NLP. 
 
 #### Papers
-6.03.2019 [*AtomNet: a deep convolutional neural network for bioactivity prediction in structure-based drug discovery](https://arxiv.org/abs/1510.02855) Izhar Wallach, Michael Dzamba, Abraham Heifets, 2015
+6.03.2019 [AtomNet: a deep convolutional neural network for bioactivity prediction in structure-based drug discovery](https://arxiv.org/abs/1510.02855) Izhar Wallach, Michael Dzamba, Abraham Heifets, 2015
 
 5.01.2019 [*Convolutional Networks on Graphs for Learning Molecular Fingerprints*](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf) David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, Ryan P. Adams, 2015
 
