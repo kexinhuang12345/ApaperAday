@@ -3,6 +3,10 @@
 I urge myself to read at least one paper per day. mainly in ML, ML for biomedicine, and NLP. 
 
 #### Papers
+6.05.2019 [*Structural Deep Network Embedding*](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf) Daixin Wang, Peng Cui, Wenwu Zhu, 2016
+
+[*Link Prediction Based on Graph Neural Networks*](https://arxiv.org/abs/1802.09691) Muhan Zhang, Yixin Chen, 2018
+
 6.04.2019 [*Pre-training Graph Neural Networks*](https://arxiv.org/abs/1905.12265) Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec, 2019
 
 [*Learning Discrete Structures for Graph Neural Networks*](https://arxiv.org/abs/1903.11960) Luca Franceschi, Mathias Niepert, Massimiliano Pontil, Xiao He, 2019
