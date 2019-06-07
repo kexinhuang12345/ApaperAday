@@ -3,6 +3,10 @@
 I urge myself to read at least one paper per day. mainly in ML, ML for biomedicine, and NLP. 
 
 #### Papers
+6.06.2019 [*Network-based prediction of protein interactions*](https://www.nature.com/articles/s41467-019-09177-y) István A. Kovács, Katja Luck, Kerstin Spirohn, Yang Wang, Carl Pollis, Sadie Schlabach, Wenting Bian, Dae-Kyum Kim, Nishka Kishore, Tong Hao, Michael A. Calderwood, Marc Vidal & Albert-László Barabási, 2018
+
+[*Low Data Drug Discovery with One-Shot Learning*](https://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00367) Han Altae-Tran, Bharath Ramsundar, OrcidAneesh S. Pappu, Vijay Pande, 2017
+
 6.05.2019 [*Structural Deep Network Embedding*](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf) Daixin Wang, Peng Cui, Wenwu Zhu, 2016
 
 [*Link Prediction Based on Graph Neural Networks*](https://arxiv.org/abs/1802.09691) Muhan Zhang, Yixin Chen, 2018
