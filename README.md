@@ -3,9 +3,13 @@
 I urge myself to read at least one paper per day. mainly in ML, ML for biomedicine, and NLP. 
 
 #### Papers
+6.11.2019 [*Emergence of Scaling in Random Networks*](http://barabasi.com/f/67.pdf) Albert-Laszlo Barabasi and Reka Albert, 1999
+
+[*Link prediction in complex networks: A survey.*](https://arxiv.org/abs/1010.0725) Linyuan Lü and Tao Zhou, 2010
+
 6.07.2019 [*Network Representation Learning: A Survey*](https://arxiv.org/abs/1801.05852) Daokun Zhang, Jie Yin, Xingquan Zhu, Chengqi Zhang, 2018
 
-[*The Emerging Field of Signal Processing on Graphs*](https://ieeexplore.ieee.org/document/6494675) David I Shuman, Sunil K. Narang, Pascal Frossard, Antonio Ortega, Pierre Vandergheynst. 2012
+[*The Emerging Field of Signal Processing on Graphs*](https://ieeexplore.ieee.org/document/6494675) David I Shuman, Sunil K. Narang, Pascal Frossard, Antonio Ortega, Pierre Vandergheynst, 2012
 
 6.06.2019 [*Network-based prediction of protein interactions*](https://www.nature.com/articles/s41467-019-09177-y) István A. Kovács, Katja Luck, Kerstin Spirohn, Yang Wang, Carl Pollis, Sadie Schlabach, Wenting Bian, Dae-Kyum Kim, Nishka Kishore, Tong Hao, Michael A. Calderwood, Marc Vidal & Albert-László Barabási, 2018
 
