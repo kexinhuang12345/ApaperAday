@@ -3,6 +3,8 @@
 I urge myself to read at least one paper per day. mainly in ML, ML for biomedicine, and NLP. 
 
 #### Papers
+6.14.2019 [*Modeling polypharmacy side effects with graph convolutional networks*](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770) Marinka Zitnik  Monica Agrawal  Jure Leskovec, 2018
+
 6.11.2019 [*Emergence of Scaling in Random Networks*](http://barabasi.com/f/67.pdf) Albert-Laszlo Barabasi and Reka Albert, 1999
 
 [*Link prediction in complex networks: A survey.*](https://arxiv.org/abs/1010.0725) Linyuan Lü and Tao Zhou, 2010
